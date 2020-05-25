@@ -19,14 +19,6 @@
     "proxy",
     "heroku"
   ],
-  "main": "./lib/cors-anywhere.js",
-  "files": [
-    "lib/",
-    "test/",
-    "Procfile",
-    "demo.html",
-    "server.js"
-  ],
   "dependencies": {
     "http-proxy": "1.18.1",
     "proxy-from-env": "1.1.0"
